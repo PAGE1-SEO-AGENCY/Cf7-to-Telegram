@@ -25,7 +25,7 @@ Plugin sẽ tự động gửi thông tin từ các form Contact Form 7 tới Te
 
 ## Hỗ trợ
 
-Nếu bạn gặp bất kỳ vấn đề gì trong quá trình sử dụng, vui lòng truy cập [trang hỗ trợ](https://page1.vn/) để nhận được sự trợ giúp từ PAGE1 SEO Agency.
+Nếu bạn gặp bất kỳ vấn đề gì trong quá trình sử dụng, vui lòng truy cập [trang hỗ trợ](https://page1.vn/lien-he/) để nhận được sự trợ giúp từ PAGE1 SEO Agency.
 
 # CF 7 to Telegram Plugin
 
@@ -54,4 +54,4 @@ The plugin will automatically send information from Contact Form 7 forms to Tele
 
 ## Support
 
-If you encounter any issues during usage, please visit the [support page](https://page1.vn/) to get assistance from PAGE1 SEO Agency.
+If you encounter any issues during usage, please visit the [support page](https://page1.vn/lien-he/) to get assistance from PAGE1 SEO Agency.
